@@ -18,7 +18,7 @@ public class jagged {
             for (int j = 0; j < 3; j++) {
                 System.out.println("Enter character for position (" + i + ", " + j + "): ");
                 TicTacToeBoard[i][j] = scanner.next().charAt(0);
-            }
+            }+
         }
 
         // Print the board
