@@ -11,6 +11,8 @@ public class ds1 {
      temp=array[i];
      array[i]=End;
      End = temp;
+
+     console.log("print",i)
     
     }
     
