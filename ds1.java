@@ -12,7 +12,7 @@ public class ds1 {
      array[i]=End;
      End = temp;
 
-     console.log("print",i)
+     console.log("print",i);
     
     }
     
